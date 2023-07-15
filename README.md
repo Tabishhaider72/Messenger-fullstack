@@ -1,8 +1,8 @@
 # Real-Time Messenger: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
-![Screenshot 2023-07-16 024005](https://github.com/SayedTabish72/Messenger-fullstack/assets/93794214/8961375e-212b-49bd-bff6-550c10d5469b)
+![Screenshot 2023-07-16 024005](https://github.com/SayedTabish72/Messenger-fullstack/assets/93794214/8961375e-212b-49bd-bff6-550c10d5469b) 
 
-![Screenshot 2023-07-16 024130](https://github.com/SayedTabish72/Messenger-fullstack/assets/93794214/d20cf44d-fd9a-408b-8cca-d78536d592fe)
+
 
 
 This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
