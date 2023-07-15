@@ -1,13 +1,15 @@
-# Real-Time Messenger: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
+# Real-Time Messenger: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
-![Copy of Copy of Fullstack Twitter Clone (1)](https://user-images.githubusercontent.com/23248726/236631198-90414da5-ee43-46a9-8898-70b003bcd83d.png)
+![Screenshot 2023-07-16 024005](https://github.com/SayedTabish72/Messenger-fullstack/assets/93794214/8961375e-212b-49bd-bff6-550c10d5469b)
+
+![Screenshot 2023-07-16 024130](https://github.com/SayedTabish72/Messenger-fullstack/assets/93794214/d20cf44d-fd9a-408b-8cca-d78536d592fe)
 
 
 This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
 [VIDEO TUTORIAL](https://www.youtube.com/watch?v=PGPGcKBpAk8)
 
-Master the art of building a real-time Messenger clone using the latest web development technologies. In this comprehensive tutorial, we'll walk you through the process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
+Master the art of building a real-time Messenger clone using the latest web development technology process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
 
 Key Features:
 
@@ -31,8 +33,6 @@ Key Features:
 - How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
 - Handling relations between Server and Child components in a real-time environment
 - Creating and managing chat rooms and channels
-
-Whether you're an experienced developer looking to expand your skillset or a beginner eager to learn the latest web development technologies, this tutorial has something for everyone. Join us on this exciting journey and take your web development skills to new heights!
 
 
 ### Prerequisites
